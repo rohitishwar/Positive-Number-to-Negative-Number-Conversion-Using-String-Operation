@@ -1,0 +1,5 @@
+x = "45" 
+#x=str(input(Enter the number :)) For taking input number as string and convert to negative. 
+y= "0"
+z = float(int(y) - int(x))
+print"The negative value of String X is :" z)
